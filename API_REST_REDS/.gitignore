@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Build directory
+dist/
+build/
+
+# Uploads directory (contains user-uploaded content)
+uploads/
+
+# Batch script to start the project
+arrancar-proyecto.bat
