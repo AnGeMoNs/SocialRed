@@ -1,0 +1,5 @@
+![Screenshot_5](https://github.com/AnGeMoNs/SocialRed/assets/129752667/11c79e71-cc83-4870-81f4-21e7df58cf8d)
+![Screenshot_4](https://github.com/AnGeMoNs/SocialRed/assets/129752667/e6f5dd43-1bc7-4ccb-8900-88741d8c8477)
+![Screenshot_3](https://github.com/AnGeMoNs/SocialRed/assets/129752667/db1aaafa-d06a-4d0a-a192-23e5a357034b)
+![Screenshot_2](https://github.com/AnGeMoNs/SocialRed/assets/129752667/6effc7b6-141f-43c9-9d27-ea29e953edf1)
+![Screenshot_1](https://github.com/AnGeMoNs/SocialRed/assets/129752667/8b72326e-8cab-4324-be82-793b2d0397a6)
